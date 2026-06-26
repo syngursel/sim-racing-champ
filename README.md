@@ -1,9 +1,9 @@
 # Privacy Policy for Sim Racing Championship
 **1. Introduction**: Welcome to Sim Racing Championship ("the App"). Your privacy is incredibly important to us. This Privacy Policy outlines how your information is handled when you use our App. The short answer is: We do not collect, store, or share any of your personal data.
 
-**2. Data Collection and Usage** :Sim Racing Championship operates entirely offline. We do not require you to create an account, and we do not collect any personal information, telemetry, usage statistics, or crash reports.
+**2. Data Collection and Usage**: Sim Racing Championship operates entirely offline. We do not require you to create an account, and we do not collect any personal information, telemetry, usage statistics, or crash reports.
 
-**3. Local Storage** :All data generated within the App—including but not limited to your custom championships, race results, driver names, pit strategies, and car setups—is stored locally on your device. This data is never transmitted to our servers or any third-party servers. If you delete the App, your local data will also be deleted unless backed up via your personal iCloud account.
+**3. Local Storage**: All data generated within the App—including but not limited to your custom championships, race results, driver names, pit strategies, and car setups—is stored locally on your device. This data is never transmitted to our servers or any third-party servers. If you delete the App, your local data will also be deleted unless backed up via your personal iCloud account.
 
 **4. Third-Party Services and Tracking**: The App does not use any third-party analytics tools, tracking software, or advertising frameworks. We do not track your behavior across other apps or websites.
 
